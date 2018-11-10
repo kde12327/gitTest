@@ -16,3 +16,5 @@ SourceTree와 Github를 이용해 Git을 배워봅시다.
 master 추가
 
 Phone 추가
+
+태그를 달아보
